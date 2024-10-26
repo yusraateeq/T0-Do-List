@@ -100,3 +100,18 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+@media (max-width:400px) {
+    button {
+        padding: 12px 30px;
+
+    }
+
+    .todo-app {
+        padding: 40px 50px 50px 2px;
+
+    }
+
+    .todo-app h2 {
+        font-size: 20px;
+    }
+}
